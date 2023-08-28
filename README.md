@@ -1,5 +1,6 @@
 # m346_AuroraGjemaj
 
+# KN01
 Mit dem Befehl " lscpu | grep "CPU(s)" " kann man die aktuellen CPUs sehen.
 
 ![CPU](https://github.com/auroragjemaj/m346_AuroraGjemaj/assets/112400886/f6f1f103-ba76-4171-b074-55411456a48f)
